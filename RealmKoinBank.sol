@@ -7,8 +7,8 @@ contract MarketBank {
     // GitHub : https://github.com/RealmKoin
     //
     // 
-    // This smart contract requires a fee to use to use but donations are always welcome also :
-    //   Donate Ether - 0x6b7c813b82b37632fbdb86ee3fa60c83f2d26953
+    // This smart contract requires a fee to use to use but donations to the RK project are always welcome also :
+    //   Donate Ether / Tokens - 0xdb436485f38d0f9c78acfb20ededc97419eb2ea5
     //
     /* -------- State data -------- */
     address private _owner;
